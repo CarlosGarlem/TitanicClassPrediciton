@@ -2,3 +2,7 @@ model,accuracy,error,precision,recall,f1-score
 decisionTree_criterion=entropy__SibSp_Parch_Fare_passenger_class_isFemale,0.7902,0.2098,0.7347,0.6792,0.7059
 SVM_C=1_kernel=rbf__SibSp_Parch_Fare_passenger_class_isFemale,0.8322,0.1678,0.8222,0.6981,0.7551
 NaiveBayes__SibSp_Parch_Fare_passenger_class_isFemale,0.8182,0.18179999999999996,0.7547,0.7547,0.7547
+regLog_lr=0.1_reg=l2_lambda=0.0001_mbatch=25_epochs=200__SibSp_Parch_Fare_passenger_class_isFemale,0.8252,0.17479999999999996,0.7917,0.717,0.7525
+regLog_lr=0.01_reg=l2_lambda=0.0001_mbatch=25_epochs=200__SibSp_Parch_Fare_passenger_class_isFemale,0.8042,0.19579999999999997,0.7551,0.6981,0.7255
+decisionTree_criterion=entropy__SibSp_Parch_Fare_passenger_class_isFemale,0.7832,0.2168,0.72,0.6792,0.699
+decisionTree_criterion=entropy__SibSp_Parch_Fare_passenger_class_isFemale,0.7832,0.2168,0.72,0.6792,0.699
