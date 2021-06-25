@@ -146,7 +146,8 @@ def getModelPredictions(model, x_predict, model_type, return_probs = False):
 #region Ensemble functions
 
 def get_topModels(df):
-    top_models = df.groupby('model_type')['accuracy', 'model'].max()
+    top_models = df.loc[df.groupby(['model_type'])['accuracy'].idxmax()]
+    top_models.set_index('model_type', inplace = True)
     return top_models
 
 
