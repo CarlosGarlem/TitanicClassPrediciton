@@ -3,6 +3,7 @@ El siguiente proyecto presenta un método de ensemble learning que busca aplicar
 
 ### Estructura
 Los archivos del proyecto se encuentran distribuidos de la siguiente manera:
+
 **Modelo y funciones**
 - **TrainingModel.ipynb**. Contiene la lógica principal del proyecto y la primera parte descrita en el enunciado para el entrenamiento y configuración de los modelos
 - **PredictionModel.ipynb**. Contiene una simulación de 10 predicciones para el ensemble de los modelos, corresponde a la segunda parte del enunciado
