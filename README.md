@@ -8,7 +8,7 @@ Los archivos del proyecto se encuentran distribuidos de la siguiente manera:
 - **TrainingModel.ipynb**. Contiene la lógica principal del proyecto y la primera parte descrita en el enunciado para el entrenamiento y configuración de los modelos
 - **PredictionModel.ipynb**. Contiene una simulación de 10 predicciones para el ensemble de los modelos, corresponde a la segunda parte del enunciado
 - **auxiliaryFuntions.py**. Dado que algunas funciones se usan de forma recurrente entre distintos notebooks, se creo este script el cual contiene diversas funciones utilizadas para reutilizar código a lo largo del proyecto y tener un flujo en los notebooks principales más ordenado. 
-- **ResearchEssayNotebook.ipynb**. Contiene en ensayo e investigación correspondiente a la parte de K-Folds Cross Validation, así como el ensayo de SVM
+- **ResearchEssayNotebook.ipynb**. Contiene en ensayo e investigación correspondiente a la parte de K-Folds Cross Validation, guarda y exportar modelos de Tensorflow, así como el ensayo de SVM
 
 **Carpetas con Archivos adicionales**
 - **results**. Esta carpeta contiene la bitácora utilizada para llevar registro de los experimentos realizados para cada uno de los modelos

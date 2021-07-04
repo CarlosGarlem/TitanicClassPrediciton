@@ -13,6 +13,3 @@ regLog_lr=0.01_reg=l1_lambda=0.0001_mbatch=20_epochs=200__SibSp_Parch_Fare_passe
 regLog_lr=0.01_reg=l1_lambda=0.0001_mbatch=10_epochs=200__SibSp_Parch_Fare_passenger_class_isFemale,0.7902,0.2098,0.717,0.717,0.717
 regLog_lr=0.01_reg=l2_lambda=0.001_mbatch=20_epochs=200__SibSp_Parch_Fare_passenger_class_isFemale,0.8112,0.1888,0.76,0.717,0.7379
 regLog_lr=0.01_reg=l1_lambda=0.001_mbatch=20_epochs=200__SibSp_Parch_Fare_passenger_class_isFemale,0.8042,0.1958,0.7551,0.6981,0.7255
-regLog_lr=0.01_reg=l1_lambda=0.001_mbatch=20_epochs=200__SibSp_Parch_Fare_passenger_class_isFemale,0.8042,0.1958,0.7551,0.6981,0.7255
-regLog_lr=0.01_reg=l1_lambda=0.001_mbatch=20_epochs=200__SibSp_Parch_Fare_passenger_class_isFemale,0.8042,0.1958,0.7551,0.6981,0.7255
-regLog_lr=0.01_reg=l1_lambda=0.001_mbatch=20_epochs=200__SibSp_Parch_Fare_passenger_class_isFemale,0.8042,0.1958,0.7551,0.6981,0.7255
